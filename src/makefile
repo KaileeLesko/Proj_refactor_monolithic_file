@@ -1,5 +1,4 @@
-
-  CFLAGS = -Wall
+CFLAGS = -Wall
 
 #TODO link (-o) all object files into the executable myexe
 all: fileio.o utils.o proj_refactor_file.o
